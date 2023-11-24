@@ -1,6 +1,7 @@
-### Reverse a String using Stack
+
 ```markdown
 ```python
+### Reverse a String using Stack--------------------------------------------------------
 
 def reverse_string(input_string):
     stack = []
@@ -22,7 +23,7 @@ print("Original String:", input_str)
 print("Reversed String:", reversed_str)
 
 
-### Evaluate Balanced Parentheses
+### Evaluate Balanced Parentheses--------------------------------------------------------
 
 
 def is_balanced_parentheses(s):
