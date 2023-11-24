@@ -10,6 +10,6 @@
   - Social Media: [github](https://github.com/gabyugarte) | [LinkedIn](https://www.linkedin.com/in/gabriela-ugarte-maco/)
 
 ### Explore the Data Structures Covered:
-- [Stack (First Data Structure)](#1-stack-first-data-structure.md)
-- [Linked List (Second Data Structure)](#linked-list-second-data-structure)
-- [Tree (Third Data Structure)](#tree-third-data-structure)
+- [Stack (First Data Structure)](1-stack-first-data-structure.md)
+- [Linked List (Second Data Structure)](2-linked-list-second-data-structure)
+- [Tree (Third Data Structure)](3-tree-third-data-structure)
