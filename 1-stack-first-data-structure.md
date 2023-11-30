@@ -54,7 +54,8 @@
 
 - **First Problem: Reverse a String using Stack**  
   Implement a function to reverse a string using a stack data structure.
+  - [Link to Solution](solutions/first-data-structure/reverse-a-string.py)
 
 - **Second Problem (For Student): Evaluate Balanced Parentheses**  
   Implement a function to check whether a given string of parentheses is balanced using a stack.
-  - [Link to Solution](solution-first-ds.md)
+  - [Link to Solution](solutions/first-data-structure/evaluate-balanced-parentheses.py)
