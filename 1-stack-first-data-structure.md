@@ -5,6 +5,10 @@
 - **What is a Stack?**  
   A stack is a linear data structure that follows the Last-In, First-Out (LIFO) principle. Elements are added and removed from the stack at the same end, known as the top. It operates with two main operations: push (adds an element to the top) and pop (removes the top element).
 
+  ![Stack representation similar to a pile of plate](images/stack-representation.png)
+
+   ![LIFO Principle of Stack](images/stack-push-and-pop.png)
+
 - **Purpose of a Stack**  
   Stacks are used to manage function calls in programming (call stack), undo mechanisms in software, and in algorithms like depth-first search (DFS). They provide a simple and efficient structure for storing and managing data.
 
@@ -17,6 +21,8 @@
 
 - **Operations: Push, Pop, Peek**  
   In Python, a stack can be implemented using lists. The `append()` method is used for push, `pop()` method for pop, and accessing the last element using indexing for peeking.
+
+![Working of Stack Data Structure](images/stack-data-structure.png)
 
 - **Example Python Code**  
   ```python
