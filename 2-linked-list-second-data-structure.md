@@ -35,13 +35,13 @@ Here, the start pointer stores the address of the first node, and at the end, th
 ![Circular Linked List](images/circular-linked-list.png)
 
 - **Example Python Code**:
-  - [Python code for implementing a Singly Linked List](examples/simgly-linked-list.md)
-  - [Python code for implementing a Doubly Linked List](examples/doubly-linked-list.md)
-  - [Python code for implementing a Circular Linked List](examples/circular-linked-list.md)
+  - [Python code for implementing a Singly Linked List](examples/linked-list/singly-linked-list.md)
+  - [Python code for implementing a Doubly Linked List](examples/linked-list/doubly-linked-list.md)
+  - [Python code for implementing a Circular Linked List](examples/linked-list/circular-linked-list.md)
 
 ## Problems Solved Using Linked List
 
-- **Example Problem: Finding the Middle Element in a Linked List**:
+- **First Problem: Finding the Middle Element in a Linked List**:
   - This problem involves finding the middle element/node of a linked list. It can be solved using two pointers - one moving twice as fast as the other.
   - [Link to Solution](solutions/second-data-structure/find-midle-element.py)
 
